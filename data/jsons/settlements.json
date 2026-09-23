@@ -1,0 +1,4398 @@
+[
+  {
+    "id": 1,
+    "name": "Skallburgh",
+    "duchyId": 2,
+    "type": "Ducal Capital",
+    "isBorderFortress": false,
+    "ruler": "Duke Maromar II von Skallburgh, Duke of Skallheim, Count of Skallburgh and Warden of the western border",
+    "vicar": "Vicar Ottilie Schmieder",
+    "urbanPopulation": 25000,
+    "ruralPopulation": 20000,
+    "geography": [
+      "Foothills",
+      "Valley",
+      "Lakeside",
+      "Forested (Sparse)",
+      "Moorland",
+      "Caves"
+    ],
+    "economy": [
+      {
+        "tag": "Fishing (River)",
+        "modifier": 2
+      },
+      {
+        "tag": "Salt",
+        "modifier": 2
+      },
+      {
+        "tag": "Peat",
+        "modifier": 3
+      },
+      {
+        "tag": "Weapons & Armour",
+        "modifier": 2
+      },
+      {
+        "tag": "River/Coastal Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "Port/Harbour",
+        "modifier": 2
+      },
+      {
+        "tag": "Court Seat",
+        "modifier": 3
+      },
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 2
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Sulmar",
+        "km": 24,
+        "direction": "south-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Aschen",
+        "km": 36,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Tennerberg",
+        "km": 36,
+        "direction": "west",
+        "note": null
+      },
+      {
+        "toSettlement": "Sennel",
+        "km": 48,
+        "direction": "south",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 2,
+    "name": "Tennerberg",
+    "duchyId": 2,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Hilmar Stahl",
+    "vicar": "Vicar Rosalind Kornfeld",
+    "urbanPopulation": 1500,
+    "ruralPopulation": 8000,
+    "geography": [
+      "Foothills",
+      "Mountainous",
+      "Moorland",
+      "Cliffs",
+      "Caves/Caverns"
+    ],
+    "economy": [
+      {
+        "tag": "Iron",
+        "modifier": 3
+      },
+      {
+        "tag": "Electrum",
+        "modifier": 2
+      },
+      {
+        "tag": "Tin",
+        "modifier": 2
+      },
+      {
+        "tag": "Lead",
+        "modifier": 2
+      },
+      {
+        "tag": "Hardware & Toolmaking (Metal)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Skallburg",
+        "km": 36,
+        "direction": "east",
+        "note": null
+      },
+      {
+        "toSettlement": "Norstadt",
+        "km": 48,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Alkmar",
+        "km": 24,
+        "direction": "south-west",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 3,
+    "name": "Norstadt",
+    "duchyId": 2,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Wildrick Reuss",
+    "vicar": "Vicar Elsbeth Flussmann",
+    "urbanPopulation": 1500,
+    "ruralPopulation": 8000,
+    "geography": [
+      "Foothills",
+      "Mountainous",
+      "Moorland",
+      "Cliffs",
+      "Caves/Caverns"
+    ],
+    "economy": [
+      {
+        "tag": "Copper",
+        "modifier": 3
+      },
+      {
+        "tag": "Tin",
+        "modifier": 2
+      },
+      {
+        "tag": "Lead",
+        "modifier": 2
+      },
+      {
+        "tag": "Silver",
+        "modifier": 2
+      },
+      {
+        "tag": "Hardware & Toolmaking (Metal)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Tennerberg",
+        "km": 48,
+        "direction": "south-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Alkmar",
+        "km": 48,
+        "direction": "south-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Wehrburg",
+        "km": 36,
+        "direction": "west",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 4,
+    "name": "Wehrburg",
+    "duchyId": 2,
+    "type": "Small City",
+    "isBorderFortress": true,
+    "ruler": "Commander Ansgar",
+    "vicar": null,
+    "urbanPopulation": 1000,
+    "ruralPopulation": 2000,
+    "geography": [
+      "Foothills",
+      "Mountain Pass",
+      "Moorland",
+      "Barren/Rocky",
+      "Marchland"
+    ],
+    "economy": [
+      {
+        "tag": "Toll Collection",
+        "modifier": 3
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Oats",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Grenzstadt",
+        "km": 24,
+        "direction": "south-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Norstadt",
+        "km": 36,
+        "direction": "east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 5,
+    "name": "Sulmar",
+    "duchyId": 2,
+    "type": "Large City",
+    "isBorderFortress": false,
+    "ruler": "Count Falko von der Ley",
+    "vicar": "Vicar Kunigunde Rabenfeld",
+    "urbanPopulation": 10000,
+    "ruralPopulation": 25000,
+    "geography": [
+      "Valley",
+      "Lakeside",
+      "Farmland/Fields",
+      "Forested (Sparse)"
+    ],
+    "economy": [
+      {
+        "tag": "Trade Vessels (River/Coastal)",
+        "modifier": 3
+      },
+      {
+        "tag": "Fishing (River)",
+        "modifier": 3
+      },
+      {
+        "tag": "Civilian Small Craft",
+        "modifier": 2
+      },
+      {
+        "tag": "Weapons & Armour",
+        "modifier": 2
+      },
+      {
+        "tag": "Wheat",
+        "modifier": 2
+      },
+      {
+        "tag": "Legumes",
+        "modifier": 2
+      },
+      {
+        "tag": "General Tourism",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Skallburg",
+        "km": 24,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Sennel",
+        "km": 36,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Alterfeldt",
+        "km": 24,
+        "direction": "south",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 6,
+    "name": "Alkmar",
+    "duchyId": 2,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Countess Gerlinde von Kaltenstein",
+    "vicar": "Vicar Hedwiga Marktner",
+    "urbanPopulation": 2500,
+    "ruralPopulation": 8000,
+    "geography": [
+      "Hilly",
+      "Forested (Dense)"
+    ],
+    "economy": [
+      {
+        "tag": "Timber",
+        "modifier": 3
+      },
+      {
+        "tag": "Charcoal",
+        "modifier": 2
+      },
+      {
+        "tag": "Hardware & Toolmaking (Wood)",
+        "modifier": 2
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Tennerberg",
+        "km": 24,
+        "direction": "north-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Norstadt",
+        "km": 48,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Laringen",
+        "km": 24,
+        "direction": "south",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 7,
+    "name": "Rabenheim",
+    "duchyId": 2,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Oswin Brandt",
+    "vicar": "Vicar Ulrich Holzfahrt",
+    "urbanPopulation": 1500,
+    "ruralPopulation": 25000,
+    "geography": [
+      "Valley",
+      "Forested (Sparse)",
+      "Farmland/Fields",
+      "Lakeside"
+    ],
+    "economy": [
+      {
+        "tag": "Rye",
+        "modifier": 3
+      },
+      {
+        "tag": "Wheat",
+        "modifier": 2
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 2
+      },
+      {
+        "tag": "Barley",
+        "modifier": 1
+      },
+      {
+        "tag": "Oats",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Hides/Leather)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Laringen",
+        "km": 48,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Sennel",
+        "km": 24,
+        "direction": "north-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 8,
+    "name": "Sennel",
+    "duchyId": 2,
+    "type": "Large City",
+    "isBorderFortress": false,
+    "ruler": "Countess Brynhilde von Hallenberg",
+    "vicar": "Vicar Adelheid Wildmoor",
+    "urbanPopulation": 10000,
+    "ruralPopulation": 35000,
+    "geography": [
+      "Flat",
+      "Valley",
+      "Forested (Sparse)",
+      "Farmland/Fields"
+    ],
+    "economy": [
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 3
+      },
+      {
+        "tag": "Wheat",
+        "modifier": 2
+      },
+      {
+        "tag": "Legumes",
+        "modifier": 2
+      },
+      {
+        "tag": "General Goods",
+        "modifier": 2
+      },
+      {
+        "tag": "Brewing",
+        "modifier": 2
+      },
+      {
+        "tag": "Barley",
+        "modifier": 1
+      },
+      {
+        "tag": "Cheese",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Skallburgh",
+        "km": 48,
+        "direction": "north",
+        "note": null
+      },
+      {
+        "toSettlement": "Brücke",
+        "km": 24,
+        "direction": "south-east",
+        "note": "Weisser Valley"
+      },
+      {
+        "toSettlement": "Aschen",
+        "km": 36,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Sulmar",
+        "km": 36,
+        "direction": "north-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Alterfeldt",
+        "km": 24,
+        "direction": "east",
+        "note": null
+      },
+      {
+        "toSettlement": "Rabenheim",
+        "km": 24,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Laringen",
+        "km": 48,
+        "direction": "north-west",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 9,
+    "name": "Alterfeldt",
+    "duchyId": 2,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Countess Sigrun von Ravensteig",
+    "vicar": "Vicar Konrad Steingrub",
+    "urbanPopulation": 1500,
+    "ruralPopulation": 25000,
+    "geography": [
+      "Flat",
+      "Valley",
+      "Farmland/Fields"
+    ],
+    "economy": [
+      {
+        "tag": "Wheat",
+        "modifier": 2
+      },
+      {
+        "tag": "Rye",
+        "modifier": 3
+      },
+      {
+        "tag": "Legumes",
+        "modifier": 2
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      },
+      {
+        "tag": "Cheese",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Sulmar",
+        "km": 24,
+        "direction": "north",
+        "note": null
+      },
+      {
+        "toSettlement": "Sennel",
+        "km": 24,
+        "direction": "west",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 10,
+    "name": "Laringen",
+    "duchyId": 2,
+    "type": "City",
+    "isBorderFortress": false,
+    "ruler": "Count Reinhardt von Drachenfels",
+    "vicar": "Vicar Sieglinde Waldtraum",
+    "urbanPopulation": 3000,
+    "ruralPopulation": 18000,
+    "geography": [
+      "Forested (Dense)",
+      "Valley",
+      "Farmland/Fields"
+    ],
+    "economy": [
+      {
+        "tag": "Timber",
+        "modifier": 3
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 3
+      },
+      {
+        "tag": "Charcoal",
+        "modifier": 2
+      },
+      {
+        "tag": "Pelts/Furs",
+        "modifier": 2
+      },
+      {
+        "tag": "Rye",
+        "modifier": 2
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 2
+      },
+      {
+        "tag": "Oats",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Sennel",
+        "km": 48,
+        "direction": "south-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Rabenheim",
+        "km": 48,
+        "direction": "south-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Alkmar",
+        "km": 24,
+        "direction": "north",
+        "note": null
+      },
+      {
+        "toSettlement": "Grenzstadt",
+        "km": 60,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Wyrrwald",
+        "km": 60,
+        "direction": "north-west",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 11,
+    "name": "Wyrrwald",
+    "duchyId": 2,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Countess Amarine Hartfels",
+    "vicar": "Vicar Ottberta Finkenrode",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 3000,
+    "geography": [
+      "Forested (Dense)",
+      "Forested (Magical)",
+      "Foothills"
+    ],
+    "economy": [
+      {
+        "tag": "Hunting",
+        "modifier": 3
+      },
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "Pelts/Furs",
+        "modifier": 2
+      },
+      {
+        "tag": "Preserved Foods",
+        "modifier": 2
+      },
+      {
+        "tag": "Gathering (Herbs)",
+        "modifier": 1
+      },
+      {
+        "tag": "Gathering (Fruits)",
+        "modifier": 1
+      },
+      {
+        "tag": "Beast Parts",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Grenzstadt",
+        "km": 24,
+        "direction": "north",
+        "note": null
+      },
+      {
+        "toSettlement": "Laringen",
+        "km": 60,
+        "direction": "south-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 12,
+    "name": "Grenzstadt",
+    "duchyId": 2,
+    "type": "Large City",
+    "isBorderFortress": false,
+    "ruler": "Countess Ingrid Seehart",
+    "vicar": "Vicar Konstantin von Eisengrab",
+    "urbanPopulation": 7500,
+    "ruralPopulation": 25000,
+    "geography": [
+      "Foothills",
+      "Farmland/Fields",
+      "Forested (Dense)"
+    ],
+    "economy": [
+      {
+        "tag": "General Tourism",
+        "modifier": 3
+      },
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 3
+      },
+      {
+        "tag": "Brewing",
+        "modifier": 2
+      },
+      {
+        "tag": "Wheat",
+        "modifier": 2
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 2
+      },
+      {
+        "tag": "Legumes",
+        "modifier": 1
+      },
+      {
+        "tag": "Pottery",
+        "modifier": 1
+      },
+      {
+        "tag": "Clay",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Wyrrwald",
+        "km": 24,
+        "direction": "south",
+        "note": null
+      },
+      {
+        "toSettlement": "Wehrburg",
+        "km": 24,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Laringen",
+        "km": 60,
+        "direction": "south-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 13,
+    "name": "Aschen",
+    "duchyId": 2,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Berthold Hartmann",
+    "vicar": "Vicar Mathilde Zollner",
+    "urbanPopulation": 1500,
+    "ruralPopulation": 20000,
+    "geography": [
+      "Flat",
+      "Valley",
+      "Forested (Sparse)",
+      "Farmland/Fields"
+    ],
+    "economy": [
+      {
+        "tag": "Weapons & Armour",
+        "modifier": 3
+      },
+      {
+        "tag": "Hardware & Toolmaking (Metal)",
+        "modifier": 2
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      },
+      {
+        "tag": "Oats",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Hides/Leather)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Skallburg",
+        "km": 36,
+        "direction": "north-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Sennel",
+        "km": 36,
+        "direction": "south-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 14,
+    "name": "Burghstadt",
+    "duchyId": 1,
+    "type": "Royal Capital",
+    "isBorderFortress": false,
+    "ruler": "Adelmara II \"the Stern\" von Burghstedt, Elector-Princess of Westermark, Duchess of the Weisser Valley, Countess of Burghstadt & Vanquisher of the Iom'Harun Tribes",
+    "vicar": "Arch-Vicar Elisenda Brandhauer",
+    "urbanPopulation": 60000,
+    "ruralPopulation": 50000,
+    "geography": [
+      "Riverine",
+      "Flat",
+      "Valley",
+      "Farmland/Fields",
+      "Floodplain"
+    ],
+    "economy": [
+      {
+        "tag": "Wheat",
+        "modifier": 3
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 2
+      },
+      {
+        "tag": "Court Seat",
+        "modifier": 3
+      },
+      {
+        "tag": "Legumes",
+        "modifier": 2
+      },
+      {
+        "tag": "Fishing (River)",
+        "modifier": 2
+      },
+      {
+        "tag": "Toll Collection",
+        "modifier": 2
+      },
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "River/Coastal Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "Brewing",
+        "modifier": 1
+      },
+      {
+        "tag": "Ferry/River Crossing",
+        "modifier": 1
+      },
+      {
+        "tag": "General Goods",
+        "modifier": 1
+      },
+      {
+        "tag": "Orchards/Fruit",
+        "modifier": 1
+      },
+      {
+        "tag": "Cheese",
+        "modifier": 1
+      },
+      {
+        "tag": "Minting",
+        "modifier": 3
+      },
+      {
+        "tag": "Weapons & Armour",
+        "modifier": 3
+      },
+      {
+        "tag": "Learning/University",
+        "modifier": 1
+      },
+      {
+        "tag": "Religious Administration",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Lichtendorf",
+        "km": 24,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Sennedal",
+        "km": 36,
+        "direction": "south",
+        "note": null
+      },
+      {
+        "toSettlement": "Mertis",
+        "km": 36,
+        "direction": "south",
+        "note": null
+      },
+      {
+        "toSettlement": "Morgenthal",
+        "km": 24,
+        "direction": "east",
+        "note": null
+      },
+      {
+        "toSettlement": "Heimfeldt",
+        "km": 24,
+        "direction": "north-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Landau",
+        "km": 48,
+        "direction": "north-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 15,
+    "name": "Sennedal",
+    "duchyId": 1,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Berthold von Ekenfeld",
+    "vicar": "Vicar Ottilie Krahenberg",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 18000,
+    "geography": [
+      "Riverine",
+      "Flat",
+      "Forested (Sparse)"
+    ],
+    "economy": [
+      {
+        "tag": "Wheat",
+        "modifier": 3
+      },
+      {
+        "tag": "Rye",
+        "modifier": 2
+      },
+      {
+        "tag": "Legumes",
+        "modifier": 2
+      },
+      {
+        "tag": "Clay",
+        "modifier": 2
+      },
+      {
+        "tag": "General Goods",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Burghstadt",
+        "km": 36,
+        "direction": "north",
+        "note": null
+      },
+      {
+        "toSettlement": "Mertis",
+        "km": 24,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Grunfeldt",
+        "km": 84,
+        "direction": "south-east",
+        "note": "Möwenmark duchy, Westermark"
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 16,
+    "name": "Mertis",
+    "duchyId": 1,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Gebhard Erzmann",
+    "vicar": "Vicar Ulrich Dornbach",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 3000,
+    "geography": [
+      "Foothills",
+      "Mountainous",
+      "Moorland",
+      "Mountain Pass",
+      "Caves/Caverns"
+    ],
+    "economy": [
+      {
+        "tag": "Iron",
+        "modifier": 3
+      },
+      {
+        "tag": "Electrum",
+        "modifier": 2
+      },
+      {
+        "tag": "Tin",
+        "modifier": 2
+      },
+      {
+        "tag": "Lead",
+        "modifier": 2
+      },
+      {
+        "tag": "Hardware & Toolmaking (Metal)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Sennedal",
+        "km": 24,
+        "direction": "north-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Burghstadt",
+        "km": 36,
+        "direction": "north",
+        "note": null
+      },
+      {
+        "toSettlement": "Sardel",
+        "km": 72,
+        "direction": "south-west",
+        "note": "Mysthalinn duchy, Westermark"
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 17,
+    "name": "Lichtendorf",
+    "duchyId": 1,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Waldric Ahlborn",
+    "vicar": "Vicar Hedwiga Lindenau",
+    "urbanPopulation": 1500,
+    "ruralPopulation": 15000,
+    "geography": [
+      "Valley",
+      "Flat",
+      "Forested (Dense)",
+      "Farmland/Fields",
+      "Marchland"
+    ],
+    "economy": [
+      {
+        "tag": "Wheat",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 2
+      },
+      {
+        "tag": "Barley",
+        "modifier": 3
+      },
+      {
+        "tag": "Timber",
+        "modifier": 2
+      },
+      {
+        "tag": "Charcoal",
+        "modifier": 2
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Burghstadt",
+        "km": 24,
+        "direction": "south-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Tennewald",
+        "km": 24,
+        "direction": "north-west",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 18,
+    "name": "Brücke",
+    "duchyId": 1,
+    "type": "Large City",
+    "isBorderFortress": false,
+    "ruler": "Count Konstantin von Brücke",
+    "vicar": "Vicar Kunigunde Wehnert",
+    "urbanPopulation": 12500,
+    "ruralPopulation": 20000,
+    "geography": [
+      "Valley",
+      "Riverine",
+      "Flat",
+      "Farmland/Fields",
+      "Floodplain",
+      "Ford/Crossing Point"
+    ],
+    "economy": [
+      {
+        "tag": "Toll Collection",
+        "modifier": 3
+      },
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 3
+      },
+      {
+        "tag": "River/Coastal Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "Wheat",
+        "modifier": 2
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 2
+      },
+      {
+        "tag": "Minting",
+        "modifier": 2
+      },
+      {
+        "tag": "Textile Production",
+        "modifier": 2
+      },
+      {
+        "tag": "Fishing (River)",
+        "modifier": 1
+      },
+      {
+        "tag": "General Goods",
+        "modifier": 1
+      },
+      {
+        "tag": "Learning/University",
+        "modifier": 1
+      },
+      {
+        "tag": "General Tourism",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Tennewald",
+        "km": 24,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Sennel",
+        "km": 24,
+        "direction": "north-west",
+        "note": "Skallheim duchy, Westermark"
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 19,
+    "name": "Morgenthal",
+    "duchyId": 1,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Countess Ingrid Vogelsang",
+    "vicar": "Vicar Adelheid Fuchsberg",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 12000,
+    "geography": [
+      "Hilly",
+      "Forested (Sparse)",
+      "Heath",
+      "Marchland"
+    ],
+    "economy": [
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 3
+      },
+      {
+        "tag": "Livestock (Wool)",
+        "modifier": 2
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 2
+      },
+      {
+        "tag": "Wheat",
+        "modifier": 1
+      },
+      {
+        "tag": "Cheese",
+        "modifier": 1
+      },
+      {
+        "tag": "Oats",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Burghstadt",
+        "km": 24,
+        "direction": "west",
+        "note": null
+      },
+      {
+        "toSettlement": "Landau",
+        "km": 24,
+        "direction": "north-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Heimfeldt",
+        "km": 36,
+        "direction": "north",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 20,
+    "name": "Heimfeldt",
+    "duchyId": 1,
+    "type": "City",
+    "isBorderFortress": false,
+    "ruler": "Count Hilmar Reuther",
+    "vicar": "Vicar Mathilde Osterhagen",
+    "urbanPopulation": 3500,
+    "ruralPopulation": 27000,
+    "geography": [
+      "Valley",
+      "Flat",
+      "Forested (Sparse)",
+      "Farmland/Fields",
+      "Riverine"
+    ],
+    "economy": [
+      {
+        "tag": "Wheat",
+        "modifier": 3
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 3
+      },
+      {
+        "tag": "Clay",
+        "modifier": 2
+      },
+      {
+        "tag": "Rye",
+        "modifier": 2
+      },
+      {
+        "tag": "Legumes",
+        "modifier": 2
+      },
+      {
+        "tag": "Livestock (Wool)",
+        "modifier": 2
+      },
+      {
+        "tag": "Barley",
+        "modifier": 1
+      },
+      {
+        "tag": "Oats",
+        "modifier": 1
+      },
+      {
+        "tag": "Brewing",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Burghstadt",
+        "km": 24,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Lüsselmar",
+        "km": 36,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Landau",
+        "km": 36,
+        "direction": "east",
+        "note": null
+      },
+      {
+        "toSettlement": "Errelmar",
+        "km": 36,
+        "direction": "north",
+        "note": null
+      },
+      {
+        "toSettlement": "Morgenthal",
+        "km": 36,
+        "direction": "south",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 21,
+    "name": "Landau",
+    "duchyId": 1,
+    "type": "Large City",
+    "isBorderFortress": false,
+    "ruler": "Count Adolf von Wolfsberg",
+    "vicar": "Vicar Erwin Geubels",
+    "urbanPopulation": 7500,
+    "ruralPopulation": 30000,
+    "geography": [
+      "Flat",
+      "Valley",
+      "Forested (Sparse)",
+      "Farmland/Fields"
+    ],
+    "economy": [
+      {
+        "tag": "Wheat",
+        "modifier": 3
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 3
+      },
+      {
+        "tag": "Minting",
+        "modifier": 2
+      },
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "Leatherworking",
+        "modifier": 2
+      },
+      {
+        "tag": "Textile Production",
+        "modifier": 2
+      },
+      {
+        "tag": "Flax",
+        "modifier": 2
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Oats",
+        "modifier": 1
+      },
+      {
+        "tag": "Barley",
+        "modifier": 1
+      },
+      {
+        "tag": "Legumes",
+        "modifier": 1
+      },
+      {
+        "tag": "General Goods",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Hides/Leather)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Burghstadt",
+        "km": 48,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Morgenthal",
+        "km": 24,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Heimfeldt",
+        "km": 36,
+        "direction": "west",
+        "note": null
+      },
+      {
+        "toSettlement": "Errelmar",
+        "km": 36,
+        "direction": "north",
+        "note": null
+      },
+      {
+        "toSettlement": "Murktal",
+        "km": 36,
+        "direction": "east",
+        "note": null
+      },
+      {
+        "toSettlement": "Bellian",
+        "km": 36,
+        "direction": "north-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Ortin",
+        "km": 36,
+        "direction": "south-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 22,
+    "name": "Bellian",
+    "duchyId": 1,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Countess Rosalind Amsel",
+    "vicar": "Vicar Sieglinde Aurbach",
+    "urbanPopulation": 2500,
+    "ruralPopulation": 20000,
+    "geography": [
+      "Riverine",
+      "Flat",
+      "Valley",
+      "Floodplain"
+    ],
+    "economy": [
+      {
+        "tag": "Wheat",
+        "modifier": 3
+      },
+      {
+        "tag": "Fishing (River)",
+        "modifier": 2
+      },
+      {
+        "tag": "Civilian Small Craft",
+        "modifier": 2
+      },
+      {
+        "tag": "Flax",
+        "modifier": 2
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Oats",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Errelmar",
+        "km": 48,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Murktal",
+        "km": 24,
+        "direction": "south-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Ortin",
+        "km": 24,
+        "direction": "south",
+        "note": null
+      },
+      {
+        "toSettlement": "Landau",
+        "km": 36,
+        "direction": "south-west",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 23,
+    "name": "Ortin",
+    "duchyId": 1,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Ansgar Beckmann",
+    "vicar": "Vicar Roderic Stallmann",
+    "urbanPopulation": 1500,
+    "ruralPopulation": 8000,
+    "geography": [
+      "Hilly",
+      "Forested (Sparse)",
+      "Heath",
+      "Marchland"
+    ],
+    "economy": [
+      {
+        "tag": "Livestock (Wool)",
+        "modifier": 3
+      },
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 2
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Landau",
+        "km": 36,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Murktal",
+        "km": 24,
+        "direction": "north-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Bellian",
+        "km": 24,
+        "direction": "north",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 24,
+    "name": "Murktal",
+    "duchyId": 1,
+    "type": "City",
+    "isBorderFortress": true,
+    "ruler": "Lord Castellan Oswin von Steinmark",
+    "vicar": "Vicar Gundram Wachtel",
+    "urbanPopulation": 4000,
+    "ruralPopulation": 12000,
+    "geography": [
+      "Riverine",
+      "Forested (Sparse)",
+      "Swamp",
+      "Ford/Crossing Point",
+      "Marchland"
+    ],
+    "economy": [
+      {
+        "tag": "Toll Collection",
+        "modifier": 3
+      },
+      {
+        "tag": "International Trade",
+        "modifier": 3
+      },
+      {
+        "tag": "River/Coastal Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "Ferry/River Crossing",
+        "modifier": 2
+      },
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "Rye",
+        "modifier": 2
+      },
+      {
+        "tag": "General Goods",
+        "modifier": 1
+      },
+      {
+        "tag": "Flax",
+        "modifier": 1
+      },
+      {
+        "tag": "Oats",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Bellian",
+        "km": 24,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Ortin",
+        "km": 24,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Landau",
+        "km": 36,
+        "direction": "west",
+        "note": null
+      },
+      {
+        "toSettlement": "Haneby",
+        "km": 60,
+        "direction": "north-east",
+        "note": "Brannburg duchy, Midralan"
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 25,
+    "name": "Errelmar",
+    "duchyId": 1,
+    "type": "Large City",
+    "isBorderFortress": false,
+    "ruler": "Count Reinhardt von Kornfeld",
+    "vicar": "Vicar Brunhilde Kornmann",
+    "urbanPopulation": 7500,
+    "ruralPopulation": 30000,
+    "geography": [
+      "Flat",
+      "Floodplain",
+      "Valley",
+      "Lakeside",
+      "Farmland/Fields",
+      "Forested (Sparse)"
+    ],
+    "economy": [
+      {
+        "tag": "Wheat",
+        "modifier": 3
+      },
+      {
+        "tag": "Trade Vessels (River/Coastal)",
+        "modifier": 3
+      },
+      {
+        "tag": "Rye",
+        "modifier": 2
+      },
+      {
+        "tag": "Barley",
+        "modifier": 2
+      },
+      {
+        "tag": "Legumes",
+        "modifier": 2
+      },
+      {
+        "tag": "River/Coastal Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 2
+      },
+      {
+        "tag": "Oats",
+        "modifier": 1
+      },
+      {
+        "tag": "Brewing",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Trässelmar",
+        "km": 24,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Lüsselmar",
+        "km": 36,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Bellian",
+        "km": 48,
+        "direction": "south-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Landau",
+        "km": 36,
+        "direction": "south",
+        "note": null
+      },
+      {
+        "toSettlement": "Heimfeldt",
+        "km": 36,
+        "direction": "south",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 26,
+    "name": "Lüsselmar",
+    "duchyId": 1,
+    "type": "City",
+    "isBorderFortress": false,
+    "ruler": "Count Sigrun Ehrlich",
+    "vicar": "Vicar Gerda Sonnfeld",
+    "urbanPopulation": 5000,
+    "ruralPopulation": 27000,
+    "geography": [
+      "Flat",
+      "Valley",
+      "Floodplain",
+      "Farmland/Fields",
+      "Riverine"
+    ],
+    "economy": [
+      {
+        "tag": "Wheat",
+        "modifier": 3
+      },
+      {
+        "tag": "Wine",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 2
+      },
+      {
+        "tag": "Barley",
+        "modifier": 2
+      },
+      {
+        "tag": "Legumes",
+        "modifier": 2
+      },
+      {
+        "tag": "Oats",
+        "modifier": 1
+      },
+      {
+        "tag": "Orchards/Fruit",
+        "modifier": 2
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Errelmar",
+        "km": 36,
+        "direction": "north-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Heimfeldt",
+        "km": 36,
+        "direction": "south-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 27,
+    "name": "Trässelmar",
+    "duchyId": 1,
+    "type": "City",
+    "isBorderFortress": false,
+    "ruler": "Count Manfrid Segelhorst",
+    "vicar": "Vicar Bertram Falkenrath",
+    "urbanPopulation": 5000,
+    "ruralPopulation": 17000,
+    "geography": [
+      "Riverine",
+      "Lakeside",
+      "Farmland/Fields",
+      "Flat",
+      "Valley"
+    ],
+    "economy": [
+      {
+        "tag": "Trade Vessels (River/Coastal)",
+        "modifier": 3
+      },
+      {
+        "tag": "Military Vessels (River/Coastal)",
+        "modifier": 2
+      },
+      {
+        "tag": "River/Coastal Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "Weapons & Armour",
+        "modifier": 2
+      },
+      {
+        "tag": "Wheat",
+        "modifier": 2
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Legumes",
+        "modifier": 1
+      },
+      {
+        "tag": "Barley",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Errelmar",
+        "km": 24,
+        "direction": "south-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 28,
+    "name": "Tennewald",
+    "duchyId": 1,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Gerolf Eichmann",
+    "vicar": "Vicar Frieda Buschmann",
+    "urbanPopulation": 2500,
+    "ruralPopulation": 25000,
+    "geography": [
+      "Forested (Dense)",
+      "Flat",
+      "Valley",
+      "Farmland/Fields"
+    ],
+    "economy": [
+      {
+        "tag": "Timber",
+        "modifier": 2
+      },
+      {
+        "tag": "Wheat",
+        "modifier": 2
+      },
+      {
+        "tag": "Charcoal",
+        "modifier": 3
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Legumes",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      },
+      {
+        "tag": "General Goods",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Blaudorf",
+        "km": 24,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Lichtendorf",
+        "km": 24,
+        "direction": "south-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Brücke",
+        "km": 24,
+        "direction": "north-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 29,
+    "name": "Blaudorf",
+    "duchyId": 1,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Countess Waltraud Seewald",
+    "vicar": "Vicar Irmgard Moorbach",
+    "urbanPopulation": 2000,
+    "ruralPopulation": 10000,
+    "geography": [
+      "Lakeside",
+      "Forested (Dense)",
+      "Marchland"
+    ],
+    "economy": [
+      {
+        "tag": "Hunting",
+        "modifier": 3
+      },
+      {
+        "tag": "Fishing (River)",
+        "modifier": 2
+      },
+      {
+        "tag": "Leatherworking",
+        "modifier": 2
+      },
+      {
+        "tag": "Timber",
+        "modifier": 2
+      },
+      {
+        "tag": "Charcoal",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      },
+      {
+        "tag": "Civilian Small Craft",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Beast Parts",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Tennewald",
+        "km": 24,
+        "direction": "south-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 30,
+    "name": "Kliffstadt",
+    "duchyId": 3,
+    "type": "Ducal Capital",
+    "isBorderFortress": false,
+    "ruler": "Duchess Theralda I von Kliffstadt, Duchess of Mysthalinn & Countess of Kliffstadt",
+    "vicar": "High-Vicar Baldrin Graudorn",
+    "urbanPopulation": 22500,
+    "ruralPopulation": 30000,
+    "geography": [
+      "Moorland",
+      "Plateau",
+      "Mountainous",
+      "Mountain Pass",
+      "Caves/Caverns"
+    ],
+    "economy": [
+      {
+        "tag": "Iron",
+        "modifier": 3
+      },
+      {
+        "tag": "Hardware & Toolmaking (Metal)",
+        "modifier": 3
+      },
+      {
+        "tag": "Court Seat",
+        "modifier": 3
+      },
+      {
+        "tag": "Gemstones",
+        "modifier": 3
+      },
+      {
+        "tag": "Silver",
+        "modifier": 2
+      },
+      {
+        "tag": "Lead",
+        "modifier": 2
+      },
+      {
+        "tag": "Tin",
+        "modifier": 2
+      },
+      {
+        "tag": "Toll Collection",
+        "modifier": 2
+      },
+      {
+        "tag": "Alum",
+        "modifier": 1
+      },
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "Religious Administration",
+        "modifier": 1
+      },
+      {
+        "tag": "Minting",
+        "modifier": 2
+      },
+      {
+        "tag": "Learning/University",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Hogenberg",
+        "km": 24,
+        "direction": "north",
+        "note": null
+      },
+      {
+        "toSettlement": "Sardel",
+        "km": 36,
+        "direction": "east",
+        "note": null
+      },
+      {
+        "toSettlement": "Schaudorf",
+        "km": 24,
+        "direction": "east",
+        "note": null
+      },
+      {
+        "toSettlement": "Hazenberg",
+        "km": 36,
+        "direction": "south",
+        "note": null
+      },
+      {
+        "toSettlement": "Grauwenberg",
+        "km": 60,
+        "direction": "west",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 31,
+    "name": "Sardel",
+    "duchyId": 3,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Ebben Marrow",
+    "vicar": "Vicar Ilse Dunmoor",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 4000,
+    "geography": [
+      "Barren/Rocky",
+      "Moorland",
+      "Mountainous"
+    ],
+    "economy": [
+      {
+        "tag": "Hunting",
+        "modifier": 2
+      },
+      {
+        "tag": "Beast Parts",
+        "modifier": 2
+      },
+      {
+        "tag": "Pelts/Furs",
+        "modifier": 2
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Gathering (Herbs)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Kliffstadt",
+        "km": 36,
+        "direction": "west",
+        "note": null
+      },
+      {
+        "toSettlement": "Mertis",
+        "km": 72,
+        "direction": "north-east",
+        "note": "Weisser Valley duchy, Westermark"
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 32,
+    "name": "Schaudorf",
+    "duchyId": 3,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Countess Hella Aschgrimm",
+    "vicar": "Vicar Bertrand Vohl",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 8000,
+    "geography": [
+      "Foothills",
+      "Moorland",
+      "Farmland/Fields",
+      "Forested (Dense)"
+    ],
+    "economy": [
+      {
+        "tag": "Timber",
+        "modifier": 2
+      },
+      {
+        "tag": "Charcoal",
+        "modifier": 2
+      },
+      {
+        "tag": "Pelts/Furs",
+        "modifier": 1
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 1
+      },
+      {
+        "tag": "Legumes",
+        "modifier": 1
+      },
+      {
+        "tag": "Barley",
+        "modifier": 1
+      },
+      {
+        "tag": "Oats",
+        "modifier": 1
+      },
+      {
+        "tag": "Gathering (Herbs)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Kliffstadt",
+        "km": 24,
+        "direction": "west",
+        "note": null
+      },
+      {
+        "toSettlement": "Wolfswald",
+        "km": 24,
+        "direction": "east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 33,
+    "name": "Grauwenberg",
+    "duchyId": 3,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Baldric Hoenmark",
+    "vicar": "Vicar Frieda Ostwell.",
+    "urbanPopulation": 1500,
+    "ruralPopulation": 4000,
+    "geography": [
+      "Foothills",
+      "Mountainous",
+      "Forested (Dense)"
+    ],
+    "economy": [
+      {
+        "tag": "Iron",
+        "modifier": 3
+      },
+      {
+        "tag": "Weapons & Armour",
+        "modifier": 2
+      },
+      {
+        "tag": "Lead",
+        "modifier": 2
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 2
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Pelts/Furs",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Kliffstadt",
+        "km": 60,
+        "direction": "east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 34,
+    "name": "Wolfswald",
+    "duchyId": 3,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Countess Ysolde Brennmoor",
+    "vicar": "Vicar Oswin Brennmoor",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 5000,
+    "geography": [
+      "Foothills",
+      "Moorland",
+      "Farmland/Fields",
+      "Forested (Dense)",
+      "Riverine"
+    ],
+    "economy": [
+      {
+        "tag": "Timber",
+        "modifier": 1
+      },
+      {
+        "tag": "Pelts/Furs",
+        "modifier": 2
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 2
+      },
+      {
+        "tag": "Charcoal",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 2
+      },
+      {
+        "tag": "Gathering (Herbs)",
+        "modifier": 1
+      },
+      {
+        "tag": "Gathering (Fruits)",
+        "modifier": 1
+      },
+      {
+        "tag": "Preserved Foods",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Schaudorf",
+        "km": 24,
+        "direction": "west",
+        "note": null
+      },
+      {
+        "toSettlement": "Drechendal",
+        "km": 24,
+        "direction": "north-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Alsum",
+        "km": 24,
+        "direction": "east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 35,
+    "name": "Alsum",
+    "duchyId": 3,
+    "type": "City",
+    "isBorderFortress": false,
+    "ruler": "Count Reindert Halstrom",
+    "vicar": "Vicar Adelheid Sorgen",
+    "urbanPopulation": 4000,
+    "ruralPopulation": 15000,
+    "geography": [
+      "Foothills",
+      "Farmland/Fields",
+      "Moorland",
+      "Caves/Caverns",
+      "Riverine",
+      "Forested (Sparse)"
+    ],
+    "economy": [
+      {
+        "tag": "Copper",
+        "modifier": 3
+      },
+      {
+        "tag": "Peat",
+        "modifier": 3
+      },
+      {
+        "tag": "Minting",
+        "modifier": 2
+      },
+      {
+        "tag": "Toll Collection",
+        "modifier": 2
+      },
+      {
+        "tag": "Weapons & Armour",
+        "modifier": 2
+      },
+      {
+        "tag": "Tin",
+        "modifier": 2
+      },
+      {
+        "tag": "Iron",
+        "modifier": 1
+      },
+      {
+        "tag": "Lead",
+        "modifier": 1
+      },
+      {
+        "tag": "Orchards/Fruit",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Drechendal",
+        "km": 36,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Wolfswald",
+        "km": 24,
+        "direction": "west",
+        "note": null
+      },
+      {
+        "toSettlement": "Renberg",
+        "km": 24,
+        "direction": "north-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Heugel",
+        "km": 24,
+        "direction": "east",
+        "note": null
+      },
+      {
+        "toSettlement": "Almdal",
+        "km": 24,
+        "direction": "south",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 36,
+    "name": "Heugel",
+    "duchyId": 3,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Countess Solvare Marrenthal",
+    "vicar": "Vicar Berthram Aulwick",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 8000,
+    "geography": [
+      "Foothills",
+      "Farmland/Fields",
+      "Moorland",
+      "Caves/Caverns",
+      "Riverine",
+      "Forested (Sparse)"
+    ],
+    "economy": [
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 1
+      },
+      {
+        "tag": "Gathering (Herbs)",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Alsum",
+        "km": 24,
+        "direction": "west",
+        "note": null
+      },
+      {
+        "toSettlement": "Renberg",
+        "km": 24,
+        "direction": "north",
+        "note": null
+      },
+      {
+        "toSettlement": "Grunfeldt",
+        "km": 36,
+        "direction": "east",
+        "note": "Möwenmark duchy, Westermark"
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 37,
+    "name": "Renberg",
+    "duchyId": 3,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Fredrick Steinmoor",
+    "vicar": "Vicar Runa Eskeld",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 2000,
+    "geography": [
+      "Mountainous",
+      "Barren/Rocky"
+    ],
+    "economy": [
+      {
+        "tag": "Hunting",
+        "modifier": 1
+      },
+      {
+        "tag": "Pelts/Furs",
+        "modifier": 1
+      },
+      {
+        "tag": "Beast Parts",
+        "modifier": 1
+      },
+      {
+        "tag": "Gold",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Alsum",
+        "km": 24,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Heugel",
+        "km": 24,
+        "direction": "south",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 38,
+    "name": "Drechendal",
+    "duchyId": 3,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Countess Mathilde Drechen",
+    "vicar": "Vicar Anselm Duregg",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 2000,
+    "geography": [
+      "Mountainous",
+      "Barren/Rocky"
+    ],
+    "economy": [
+      {
+        "tag": "Beast Parts",
+        "modifier": 3
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 2
+      },
+      {
+        "tag": "Pelts/Furs",
+        "modifier": 1
+      },
+      {
+        "tag": "Gathering (Herbs)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Wolfswald",
+        "km": 24,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Alsum",
+        "km": 36,
+        "direction": "south-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 39,
+    "name": "Almdal",
+    "duchyId": 3,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Joran Fellmark",
+    "vicar": "Vicar Ingrid Thalsburg",
+    "urbanPopulation": 1500,
+    "ruralPopulation": 3000,
+    "geography": [
+      "Flat",
+      "Riverine",
+      "Forested (Dense)"
+    ],
+    "economy": [
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "Beast Parts",
+        "modifier": 1
+      },
+      {
+        "tag": "Pelts/Furs",
+        "modifier": 1
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 1
+      },
+      {
+        "tag": "Gathering (Herbs)",
+        "modifier": 1
+      },
+      {
+        "tag": "Fishing (River)",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Alsum",
+        "km": 24,
+        "direction": "north",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 40,
+    "name": "Jorma",
+    "duchyId": 3,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Wendell Tannreuth",
+    "vicar": "Vicar Gisela Ambrell",
+    "urbanPopulation": 1500,
+    "ruralPopulation": 4000,
+    "geography": [
+      "Forested (Dense)",
+      "Hilly",
+      "Riverine"
+    ],
+    "economy": [
+      {
+        "tag": "Timber",
+        "modifier": 3
+      },
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "Charcoal",
+        "modifier": 2
+      },
+      {
+        "tag": "Civilian Small Craft",
+        "modifier": 2
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 1
+      },
+      {
+        "tag": "Pelts/Furs",
+        "modifier": 1
+      },
+      {
+        "tag": "Preserved Foods",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Dunlaín",
+        "km": 12,
+        "direction": "north",
+        "note": "Freestate, allied"
+      },
+      {
+        "toSettlement": "Grenholt",
+        "km": 24,
+        "direction": "south-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 41,
+    "name": "Grenholt",
+    "duchyId": 3,
+    "type": "City",
+    "isBorderFortress": false,
+    "ruler": "Count Adrik Solmere",
+    "vicar": "Vicar Hedwig Ravenholt",
+    "urbanPopulation": 3500,
+    "ruralPopulation": 15000,
+    "geography": [
+      "Forested (Dense)",
+      "Hilly",
+      "Riverine",
+      "Ford/Crossing Point"
+    ],
+    "economy": [
+      {
+        "tag": "Timber",
+        "modifier": 3
+      },
+      {
+        "tag": "Port/Harbour",
+        "modifier": 3
+      },
+      {
+        "tag": "Civilian Small Craft",
+        "modifier": 2
+      },
+      {
+        "tag": "River/Coastal Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "Charcoal",
+        "modifier": 2
+      },
+      {
+        "tag": "Military Vessels (River/Coastal)",
+        "modifier": 2
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 1
+      },
+      {
+        "tag": "Pelts/Furs",
+        "modifier": 1
+      },
+      {
+        "tag": "Preserved Foods",
+        "modifier": 1
+      },
+      {
+        "tag": "Gathering (Herbs)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Jorma",
+        "km": 24,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Zwold",
+        "km": 24,
+        "direction": "west",
+        "note": null
+      },
+      {
+        "toSettlement": "Kaltenbrunn",
+        "km": 24,
+        "direction": "south",
+        "note": null
+      },
+      {
+        "toSettlement": "Hazenberg",
+        "km": 24,
+        "direction": "east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 42,
+    "name": "Hazenberg",
+    "duchyId": 3,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Countess Brigitta Falkenwehr",
+    "vicar": "Vicar Corwin Astmoor",
+    "urbanPopulation": 1500,
+    "ruralPopulation": 10000,
+    "geography": [
+      "Flat",
+      "Forested (Dense)",
+      "Farmland/Fields"
+    ],
+    "economy": [
+      {
+        "tag": "Timber",
+        "modifier": 3
+      },
+      {
+        "tag": "Rye",
+        "modifier": 2
+      },
+      {
+        "tag": "Hardware & Toolmaking (Wood)",
+        "modifier": 2
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 2
+      },
+      {
+        "tag": "Oats",
+        "modifier": 1
+      },
+      {
+        "tag": "Barley",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Grenholt",
+        "km": 24,
+        "direction": "west",
+        "note": null
+      },
+      {
+        "toSettlement": "Nakrien",
+        "km": 36,
+        "direction": "south",
+        "note": null
+      },
+      {
+        "toSettlement": "Kliffstadt",
+        "km": 36,
+        "direction": "north",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 43,
+    "name": "Zwold",
+    "duchyId": 3,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Emmerich Grendahl",
+    "vicar": "Vicar Talwyn Osric",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 2000,
+    "geography": [
+      "Forested (Sparse)",
+      "Flat",
+      "Lakeside"
+    ],
+    "economy": [
+      {
+        "tag": "Timber",
+        "modifier": 2
+      },
+      {
+        "tag": "Charcoal",
+        "modifier": 1
+      },
+      {
+        "tag": "Hardware & Toolmaking (Wood)",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Grenholt",
+        "km": 24,
+        "direction": "east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 44,
+    "name": "Kaltenbrunn",
+    "duchyId": 3,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Alder Moorbrandt",
+    "vicar": "Vicar Hilbrand Auersong",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 3000,
+    "geography": [
+      "Forested (Sparse)",
+      "Flat",
+      "Riverine"
+    ],
+    "economy": [
+      {
+        "tag": "Timber",
+        "modifier": 2
+      },
+      {
+        "tag": "Charcoal",
+        "modifier": 1
+      },
+      {
+        "tag": "Hardware & Toolmaking (Wood)",
+        "modifier": 1
+      },
+      {
+        "tag": "Oats",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Grenholt",
+        "km": 24,
+        "direction": "north",
+        "note": null
+      },
+      {
+        "toSettlement": "Talle",
+        "km": 36,
+        "direction": "south-west",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 45,
+    "name": "Talle",
+    "duchyId": 3,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Osgar Wellenmoor",
+    "vicar": "Vicar Sunniva Brekstad",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 5000,
+    "geography": [
+      "Riverine",
+      "Forested (Dense)",
+      "Flat"
+    ],
+    "economy": [
+      {
+        "tag": "Fishing (Coastal)",
+        "modifier": 3
+      },
+      {
+        "tag": "Civilian Small Craft",
+        "modifier": 2
+      },
+      {
+        "tag": "Timber",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Kaltenbrunn",
+        "km": 36,
+        "direction": "north-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 46,
+    "name": "Nakrien",
+    "duchyId": 3,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Reinhardt Seewald",
+    "vicar": "Vicar Adelina Kesswick",
+    "urbanPopulation": 1500,
+    "ruralPopulation": 5000,
+    "geography": [
+      "Forested (Dense)",
+      "Flat",
+      "Lakeside"
+    ],
+    "economy": [
+      {
+        "tag": "Cheese",
+        "modifier": 2
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 1
+      },
+      {
+        "tag": "Timber",
+        "modifier": 1
+      },
+      {
+        "tag": "Gathering (Herbs)",
+        "modifier": 1
+      },
+      {
+        "tag": "Brewing",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Marburgh",
+        "km": 24,
+        "direction": "south",
+        "note": null
+      },
+      {
+        "toSettlement": "Hazenberg",
+        "km": 36,
+        "direction": "north",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 47,
+    "name": "Marburgh",
+    "duchyId": 3,
+    "type": "Small City",
+    "isBorderFortress": true,
+    "ruler": "Count Falkric Grenzwald",
+    "vicar": "Vicar Erma Sennhart",
+    "urbanPopulation": 2000,
+    "ruralPopulation": 5000,
+    "geography": [
+      "Riverine",
+      "Forested (Dense)",
+      "Marchland",
+      "Ford/Crossing Point"
+    ],
+    "economy": [
+      {
+        "tag": "Timber",
+        "modifier": 2
+      },
+      {
+        "tag": "Fishing (River)",
+        "modifier": 2
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 1
+      },
+      {
+        "tag": "Gathering (Herbs)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Nakrien",
+        "km": 24,
+        "direction": "north",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 48,
+    "name": "Hogenberg",
+    "duchyId": 3,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Wilhelm Kranzner",
+    "vicar": "Vicar Ademar Vosk",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 2000,
+    "geography": [
+      "Plateau",
+      "Caves/Caverns",
+      "Mountainous"
+    ],
+    "economy": [
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Kliffstadt",
+        "km": 24,
+        "direction": "south",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 49,
+    "name": "Grauhaven",
+    "duchyId": 4,
+    "type": "Ducal Capital",
+    "isBorderFortress": false,
+    "ruler": "Duke Alaric von Grauhaven, Duke of Möwenmark, Count of Grauhaven & Warden of the Merriddian Coast",
+    "vicar": "High-Vicar Dorothea Sundmark",
+    "urbanPopulation": 40000,
+    "ruralPopulation": 25000,
+    "geography": [
+      "Flat",
+      "Cliffs",
+      "Coastal",
+      "Riverine",
+      "Estuary",
+      "Forested (Medium)",
+      "Farmland/Fields"
+    ],
+    "economy": [
+      {
+        "tag": "Port/Harbour",
+        "modifier": 3
+      },
+      {
+        "tag": "Court Seat",
+        "modifier": 3
+      },
+      {
+        "tag": "International Trade",
+        "modifier": 3
+      },
+      {
+        "tag": "Minting",
+        "modifier": 3
+      },
+      {
+        "tag": "Trade Vessels (River/Coastal)",
+        "modifier": 2
+      },
+      {
+        "tag": "Military Vessels (River/Coastal)",
+        "modifier": 2
+      },
+      {
+        "tag": "Weapons & Armour",
+        "modifier": 2
+      },
+      {
+        "tag": "River/Coastal Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "Civilian Small Craft",
+        "modifier": 2
+      },
+      {
+        "tag": "Fishing (Maritime)",
+        "modifier": 2
+      },
+      {
+        "tag": "Military Vessels (Bluewater)",
+        "modifier": 1
+      },
+      {
+        "tag": "Trade Vessels (Bluewater)",
+        "modifier": 1
+      },
+      {
+        "tag": "Wheat",
+        "modifier": 1
+      },
+      {
+        "tag": "General Goods",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Baaltinger",
+        "km": 24,
+        "direction": "north-west",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 50,
+    "name": "Niedersandt",
+    "duchyId": 4,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Tobias Sandholm",
+    "vicar": "Vicar Ilse Marrengard",
+    "urbanPopulation": 1500,
+    "ruralPopulation": 8000,
+    "geography": [
+      "Flat",
+      "Coastal",
+      "Forested (Medium)"
+    ],
+    "economy": [
+      {
+        "tag": "Fishing (Maritime)",
+        "modifier": 3
+      },
+      {
+        "tag": "Salt",
+        "modifier": 2
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Wool)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Essdorn",
+        "km": 24,
+        "direction": "north-west",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 51,
+    "name": "Tulder",
+    "duchyId": 4,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Countess Freya Sandholm",
+    "vicar": "Vicar Otmar Marrengard",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 5000,
+    "geography": [
+      "Flat",
+      "Coastal",
+      "Forested (Medium)"
+    ],
+    "economy": [
+      {
+        "tag": "Fishing (Maritime)",
+        "modifier": 2
+      },
+      {
+        "tag": "Salt",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Wool)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Essdorn",
+        "km": 36,
+        "direction": "north-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 52,
+    "name": "Essdorn",
+    "duchyId": 4,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Waldemar Holzgruber",
+    "vicar": "Vicar Adela Forstner",
+    "urbanPopulation": 1500,
+    "ruralPopulation": 8000,
+    "geography": [
+      "Forested (Dense)",
+      "Farmland/Fields",
+      "Flat"
+    ],
+    "economy": [
+      {
+        "tag": "Timber",
+        "modifier": 3
+      },
+      {
+        "tag": "Charcoal",
+        "modifier": 2
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 2
+      },
+      {
+        "tag": "Hardware & Toolmaking (Wood)",
+        "modifier": 2
+      },
+      {
+        "tag": "Pelts/Furs",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Gathering (Herbs)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Tulder",
+        "km": 36,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Niedersandt",
+        "km": 24,
+        "direction": "south-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Baaltinger",
+        "km": 24,
+        "direction": "north-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 53,
+    "name": "Baaltinger",
+    "duchyId": 4,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Countess Hildegund Forstner",
+    "vicar": "Vicar Reinald Holzgruber",
+    "urbanPopulation": 2500,
+    "ruralPopulation": 8000,
+    "geography": [
+      "Forested (Dense)",
+      "Farmland/Fields",
+      "Flat"
+    ],
+    "economy": [
+      {
+        "tag": "Timber",
+        "modifier": 3
+      },
+      {
+        "tag": "Charcoal",
+        "modifier": 2
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 2
+      },
+      {
+        "tag": "Hardware & Toolmaking (Wood)",
+        "modifier": 2
+      },
+      {
+        "tag": "Pelts/Furs",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Gathering (Herbs)",
+        "modifier": 1
+      },
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Grauhaven",
+        "km": 24,
+        "direction": "south-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Bernel",
+        "km": 24,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Essdorn",
+        "km": 24,
+        "direction": "south-west",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 54,
+    "name": "Bernel",
+    "duchyId": 4,
+    "type": "City",
+    "isBorderFortress": false,
+    "ruler": "Count Aldric Marktner",
+    "vicar": "Vicar Runhilde Feldner",
+    "urbanPopulation": 4000,
+    "ruralPopulation": 15000,
+    "geography": [
+      "Flat",
+      "Forested (Medium)",
+      "Farmland/Fields"
+    ],
+    "economy": [
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 3
+      },
+      {
+        "tag": "General Goods",
+        "modifier": 2
+      },
+      {
+        "tag": "Wheat",
+        "modifier": 2
+      },
+      {
+        "tag": "Brewing",
+        "modifier": 2
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 2
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Timber",
+        "modifier": 1
+      },
+      {
+        "tag": "Charcoal",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Baaltinger",
+        "km": 24,
+        "direction": "south-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Wiesntal",
+        "km": 24,
+        "direction": "east",
+        "note": null
+      },
+      {
+        "toSettlement": "Erlenbach",
+        "km": 36,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Sternhof",
+        "km": 24,
+        "direction": "north-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 55,
+    "name": "Wiesntal",
+    "duchyId": 4,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Ludwig Braumeister",
+    "vicar": "Vicar Alaric Feldner",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 6000,
+    "geography": [
+      "Riverine",
+      "Flat",
+      "Farmland/Fields",
+      "Forested (Medium)"
+    ],
+    "economy": [
+      {
+        "tag": "Brewing",
+        "modifier": 3
+      },
+      {
+        "tag": "Barley",
+        "modifier": 2
+      },
+      {
+        "tag": "Wheat",
+        "modifier": 2
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Bernel",
+        "km": 24,
+        "direction": "west",
+        "note": null
+      },
+      {
+        "toSettlement": "Belhorst",
+        "km": 36,
+        "direction": "north-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Dramhors",
+        "km": 36,
+        "direction": "north",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 56,
+    "name": "Sternhof",
+    "duchyId": 4,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Berthold Wildmoor",
+    "vicar": "Vicar Adela Steinfarn",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 4000,
+    "geography": [
+      "Forested (Dense)",
+      "Hilly"
+    ],
+    "economy": [
+      {
+        "tag": "Beast Parts",
+        "modifier": 2
+      },
+      {
+        "tag": "Gathering (Fruits)",
+        "modifier": 2
+      },
+      {
+        "tag": "Preserved Foods",
+        "modifier": 2
+      },
+      {
+        "tag": "Gathering (Herbs)",
+        "modifier": 1
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Bernel",
+        "km": 24,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Dramhors",
+        "km": 24,
+        "direction": "north-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 57,
+    "name": "Dramhors",
+    "duchyId": 4,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Countess Roswitha Wildmoor",
+    "vicar": "Vicar Hartwin Steinfarn",
+    "urbanPopulation": 1500,
+    "ruralPopulation": 6000,
+    "geography": [
+      "Forested (Dense)",
+      "Hilly"
+    ],
+    "economy": [
+      {
+        "tag": "Beast Parts",
+        "modifier": 3
+      },
+      {
+        "tag": "Gathering (Fruits)",
+        "modifier": 2
+      },
+      {
+        "tag": "Preserved Foods",
+        "modifier": 2
+      },
+      {
+        "tag": "Gathering (Herbs)",
+        "modifier": 1
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Pelts/Furs",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Sternhof",
+        "km": 24,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Belhorst",
+        "km": 24,
+        "direction": "south-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Eichenhorst",
+        "km": 24,
+        "direction": "north-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Wiesntal",
+        "km": 36,
+        "direction": "south",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 58,
+    "name": "Belhorst",
+    "duchyId": 4,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Countess Adelgunde Fährmann",
+    "vicar": "Vicar Bertold Wassermann",
+    "urbanPopulation": 2000,
+    "ruralPopulation": 8000,
+    "geography": [
+      "Forested (Dense)",
+      "Riverine",
+      "Flat",
+      "Ford/Crossing Point"
+    ],
+    "economy": [
+      {
+        "tag": "Timber",
+        "modifier": 3
+      },
+      {
+        "tag": "Fishing (River)",
+        "modifier": 2
+      },
+      {
+        "tag": "River/Coastal Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "Gathering (Herbs)",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Dramhors",
+        "km": 24,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Wiesntal",
+        "km": 36,
+        "direction": "south-west",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 59,
+    "name": "Eichenwacht",
+    "duchyId": 4,
+    "type": "Small City",
+    "isBorderFortress": true,
+    "ruler": "Commander Reinhart Steingard",
+    "vicar": "Vicar Adela Marschner",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 3000,
+    "geography": [
+      "Hilly",
+      "Forested (Dense)",
+      "Farmland/Fields"
+    ],
+    "economy": [
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Wool)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Rausheim",
+        "km": 24,
+        "direction": "north-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Fendthof",
+        "km": 48,
+        "direction": "west",
+        "note": null
+      },
+      {
+        "toSettlement": "Rotsfeldt",
+        "km": 48,
+        "direction": "west",
+        "note": null
+      },
+      {
+        "toSettlement": "Eichenhorst",
+        "km": 12,
+        "direction": "east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 60,
+    "name": "Eichenhorst",
+    "duchyId": 4,
+    "type": "City",
+    "isBorderFortress": false,
+    "ruler": "Countess Wendelin Zollner",
+    "vicar": "Vicar Gisela Buchner",
+    "urbanPopulation": 4000,
+    "ruralPopulation": 16000,
+    "geography": [
+      "Flat",
+      "Forested (Dense)",
+      "Farmland/Fields"
+    ],
+    "economy": [
+      {
+        "tag": "Toll Collection",
+        "modifier": 3
+      },
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 3
+      },
+      {
+        "tag": "Minting",
+        "modifier": 2
+      },
+      {
+        "tag": "General Goods",
+        "modifier": 2
+      },
+      {
+        "tag": "Textile Production",
+        "modifier": 2
+      },
+      {
+        "tag": "Leatherworking",
+        "modifier": 2
+      },
+      {
+        "tag": "Hardware & Toolmaking (Metal)",
+        "modifier": 1
+      },
+      {
+        "tag": "Learning/University",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Eichenwacht",
+        "km": 12,
+        "direction": "west",
+        "note": null
+      },
+      {
+        "toSettlement": "Oberstein",
+        "km": 24,
+        "direction": "south-east",
+        "note": "Falkstadt duchy, Marova"
+      },
+      {
+        "toSettlement": "Dramhors",
+        "km": 24,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Trellhorst",
+        "km": 24,
+        "direction": "north",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 61,
+    "name": "Erlenbach",
+    "duchyId": 4,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Gebhard Forstmann",
+    "vicar": "Vicar Adelina Wildbach",
+    "urbanPopulation": 1500,
+    "ruralPopulation": 6000,
+    "geography": [
+      "Flat",
+      "Forested (Dense)",
+      "Farmland/Fields"
+    ],
+    "economy": [
+      {
+        "tag": "Hunting",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Grunfeldt",
+        "km": 24,
+        "direction": "north",
+        "note": null
+      },
+      {
+        "toSettlement": "Bernel",
+        "km": 36,
+        "direction": "south-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 62,
+    "name": "Grunfeldt",
+    "duchyId": 4,
+    "type": "City",
+    "isBorderFortress": false,
+    "ruler": "Count Everhart Feldmann",
+    "vicar": "Vicar Roswitha Marschner",
+    "urbanPopulation": 3000,
+    "ruralPopulation": 14000,
+    "geography": [
+      "Hilly",
+      "Forested (Medium)",
+      "Farmland/Fields"
+    ],
+    "economy": [
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 3
+      },
+      {
+        "tag": "Wheat",
+        "modifier": 3
+      },
+      {
+        "tag": "Rye",
+        "modifier": 2
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 2
+      },
+      {
+        "tag": "General Goods",
+        "modifier": 2
+      },
+      {
+        "tag": "Timber",
+        "modifier": 1
+      },
+      {
+        "tag": "Barley",
+        "modifier": 1
+      },
+      {
+        "tag": "Legumes",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Erlenbach",
+        "km": 24,
+        "direction": "south",
+        "note": null
+      },
+      {
+        "toSettlement": "Fendthof",
+        "km": 24,
+        "direction": "north-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Heugel",
+        "km": 36,
+        "direction": "west",
+        "note": null
+      },
+      {
+        "toSettlement": "Sennedal",
+        "km": 84,
+        "direction": "north-west",
+        "note": "Weisser Valley duchy, Westermark"
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 63,
+    "name": "Fendthof",
+    "duchyId": 4,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Countess Ottilie Heidmoor",
+    "vicar": "Vicar Konrad Feldgrau",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 5000,
+    "geography": [
+      "Hilly",
+      "Forested (Medium)",
+      "Farmland/Fields",
+      "Heath",
+      "Marchland"
+    ],
+    "economy": [
+      {
+        "tag": "Iron",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 2
+      },
+      {
+        "tag": "Oats",
+        "modifier": 1
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 2
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Grunfeldt",
+        "km": 24,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Rotsfeldt",
+        "km": 24,
+        "direction": "north-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Eichenwacht",
+        "km": 48,
+        "direction": "east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 64,
+    "name": "Rotsfeldt",
+    "duchyId": 4,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Hilmar Achenau",
+    "vicar": "Vicar bergit Coltner",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 3000,
+    "geography": [
+      "Hilly",
+      "Forested (Medium)",
+      "Farmland/Fields",
+      "Heath",
+      "Marchland",
+      "Barren/Rocky"
+    ],
+    "economy": [
+      {
+        "tag": "Iron",
+        "modifier": 1
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Oats",
+        "modifier": 1
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Fendthof",
+        "km": 24,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Rausheim",
+        "km": 24,
+        "direction": "north-east",
+        "note": null
+      },
+      {
+        "toSettlement": "Eichenwacht",
+        "km": 48,
+        "direction": "east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 65,
+    "name": "Rausheim",
+    "duchyId": 4,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Count Waldemar Altmoor",
+    "vicar": "Vicar Brigitta Steinfeld",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 3000,
+    "geography": [
+      "Hilly",
+      "Forested (Medium)",
+      "Farmland/Fields",
+      "Heath",
+      "Marchland"
+    ],
+    "economy": [
+      {
+        "tag": "Overland/Market Trade",
+        "modifier": 2
+      },
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Rotsfeldt",
+        "km": 24,
+        "direction": "south-west",
+        "note": null
+      },
+      {
+        "toSettlement": "Eichenwacht",
+        "km": 24,
+        "direction": "south-east",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 66,
+    "name": "Trellhorst",
+    "duchyId": 4,
+    "type": "Small City",
+    "isBorderFortress": false,
+    "ruler": "Countess Hedda Feldt",
+    "vicar": "Vicar Anselm Steinfeld",
+    "urbanPopulation": 1000,
+    "ruralPopulation": 3000,
+    "geography": [
+      "Flat",
+      "Forested (Sparse)",
+      "Farmland/Fields",
+      "Heath",
+      "Marchland",
+      "Riverine"
+    ],
+    "economy": [
+      {
+        "tag": "Rye",
+        "modifier": 1
+      },
+      {
+        "tag": "Fishing (River)",
+        "modifier": 1
+      },
+      {
+        "tag": "Hunting",
+        "modifier": 1
+      },
+      {
+        "tag": "Livestock (Meat)",
+        "modifier": 1
+      }
+    ],
+    "distances": [
+      {
+        "toSettlement": "Eichenhorst",
+        "km": 24,
+        "direction": "south",
+        "note": null
+      }
+    ],
+    "image": null,
+    "reignSince": null
+  }
+]

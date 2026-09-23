@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Weisser Valley",
+    "princedom": "Westermark",
+    "seat": "Burghstadt",
+    "ruler": "Adelmara II \"the Stern\" von Burghstedt, Elector-Princess of Westermark, Duchess of the Weisser Valley, Countess of Burghstadt & Vanquisher of the Iom'Harun Tribes",
+    "vicar": "Arch-Vicar Elisenda Brandhauer",
+    "population": {
+      "urban": 118000,
+      "rural": 324000,
+      "total": 442000
+    },
+    "settlementCount": 16,
+    "isElectoralSeat": true,
+    "description": "Westermark's founding duchy and the seat of the Elector-Princess herself, who holds the ducal title directly rather than granting it to a vassal Duke. A fertile river valley of wheat fields and floodplains around the royal capital, Burghstadt.",
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 2,
+    "name": "Skallheim",
+    "princedom": "Westermark",
+    "seat": "Skallburgh",
+    "ruler": "Duke Maromar II von Skallburgh, Duke of Skallheim, Count of Skallburgh and Warden of the western border",
+    "vicar": "Vicar Ottilie Schmieder",
+    "population": {
+      "urban": 67500,
+      "rural": 222000,
+      "total": 289500
+    },
+    "settlementCount": 13,
+    "isElectoralSeat": false,
+    "description": "A mining duchy in the White Mountain foothills, rich in iron, copper, tin, lead and salt. Its western marches hold Westermark's chain of border fortresses facing the Iron Dominion.",
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 3,
+    "name": "Mysthalinn",
+    "princedom": "Westermark",
+    "seat": "Kliffstadt",
+    "ruler": "Duchess Theralda I von Kliffstadt, Duchess of Mysthalinn & Countess of Kliffstadt",
+    "vicar": "High-Vicar Baldrin Graudorn",
+    "population": {
+      "urban": 49500,
+      "rural": 132000,
+      "total": 181500
+    },
+    "settlementCount": 19,
+    "isElectoralSeat": false,
+    "description": "A mountainous, mineral-rich duchy of moorland and caverns along Westermark's southern and eastern frontier, bordering the Iomharun Clanlands and the neighbouring princedom of Marova.",
+    "image": null,
+    "reignSince": null
+  },
+  {
+    "id": 4,
+    "name": "Möwenmark",
+    "princedom": "Westermark",
+    "seat": "Grauhaven",
+    "ruler": "Duke Alaric von Grauhaven, Duke of Möwenmark, Count of Grauhaven & Warden of the Merriddian Coast",
+    "vicar": "High-Vicar Dorothea Sundmark",
+    "population": {
+      "urban": 69500,
+      "rural": 146000,
+      "total": 215500
+    },
+    "settlementCount": 18,
+    "isElectoralSeat": false,
+    "description": "Westermark's coastal duchy, holding the princedom's main bluewater port and international trade at Grauhaven, backed by dense timber-producing forestland further inland.",
+    "image": null,
+    "reignSince": null
+  }
+]

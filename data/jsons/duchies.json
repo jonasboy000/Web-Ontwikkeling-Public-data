@@ -13,9 +13,9 @@
     },
     "settlementCount": 16,
     "isElectoralSeat": true,
-    "description": "Westermark's founding duchy and the seat of the Elector-Princess herself, who holds the ducal title directly rather than granting it to a vassal Duke. A fertile river valley of wheat fields and floodplains around the royal capital, Burghstadt.",
-    "image": null,
-    "reignSince": null
+    "description": "placeholder text lorum ipsum tralala",
+    "image": "https://raw.githubusercontent.com/jonasboy000/Web-Ontwikkeling-Public-data/main/data/images/portraits/Elector-Princess_Adelmara_Von_Burgstedt.png",
+    "reignSince": "0622-07-15"
   },
   {
     "id": 2,
@@ -31,9 +31,9 @@
     },
     "settlementCount": 13,
     "isElectoralSeat": false,
-    "description": "A mining duchy in the White Mountain foothills, rich in iron, copper, tin, lead and salt. Its western marches hold Westermark's chain of border fortresses facing the Iron Dominion.",
-    "image": null,
-    "reignSince": null
+    "description": "placeholder text lorum ipsum tralala",
+    "image": "https://raw.githubusercontent.com/jonasboy000/Web-Ontwikkeling-Public-data/main/data/images/portraits/Duke_Maromar-Von-Skallburgh.png",
+    "reignSince": "0579-12-20"
   },
   {
     "id": 3,
@@ -49,9 +49,9 @@
     },
     "settlementCount": 19,
     "isElectoralSeat": false,
-    "description": "A mountainous, mineral-rich duchy of moorland and caverns along Westermark's southern and eastern frontier, bordering the Iomharun Clanlands and the neighbouring princedom of Marova.",
-    "image": null,
-    "reignSince": null
+    "description": "placeholder text lorum ipsum tralala",
+    "image": "https://raw.githubusercontent.com/jonasboy000/Web-Ontwikkeling-Public-data/main/data/images/portraits/Duchess_Theralda-von-Kliffstadt.png",
+    "reignSince": "0605-05-10"
   },
   {
     "id": 4,
@@ -67,8 +67,8 @@
     },
     "settlementCount": 18,
     "isElectoralSeat": false,
-    "description": "Westermark's coastal duchy, holding the princedom's main bluewater port and international trade at Grauhaven, backed by dense timber-producing forestland further inland.",
-    "image": null,
-    "reignSince": null
+    "description": "placeholder text lorum ipsum tralala",
+    "image": "https://raw.githubusercontent.com/jonasboy000/Web-Ontwikkeling-Public-data/main/data/images/portraits/Duke_Alaric-Von-Grauhaven.png",
+    "reignSince": "0631-11-13"
   }
 ]
